@@ -4,7 +4,7 @@ int main()
 {
 cout << "Hello World" << endl;
 
-
+int num;
 
 
 
